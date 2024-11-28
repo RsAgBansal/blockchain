@@ -10,7 +10,7 @@ bnz main_l3
 err
 main_l3:
 txn NumAppArgs
-int 3
+int 2
 ==
 assert
 txna ApplicationArgs 1
