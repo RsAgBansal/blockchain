@@ -7,3 +7,6 @@ Apart from main.py (containing the backend) and the static folder (containing th
 
 To install the dependencies,
 pip install -r requirements.txt
+
+PLEASE NOTE:
+Put your private key and other details in .env file
