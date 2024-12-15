@@ -1,9 +1,12 @@
 # blockchain elections
 
 To run the project,
-python main.py
+python app.py
 
-Apart from main.py (containing the backend) and the static folder (containing the frontend html files), all other files are not required unless specifically needed for a particular task. They just have been kept to know the development history.
+For the frontend demo:
+Apart from main.py (containing the backend) and the static folder (containing the frontend html files), all other files are not required explicitly
+
+Apart from the survey creation, deployement and interaction files, there are several files which were developed in the initial stages of development and are partly based on web2. They are completely nonfunctional, and just have been kept to know the development history.
 
 To install the dependencies,
 pip install -r requirements.txt
