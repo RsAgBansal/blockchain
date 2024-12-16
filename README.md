@@ -14,11 +14,11 @@ This is an open source module which allows for polling using surveys deployed on
 ## To install the dependencies,
 => pip install -r requirements.txt
 
-## PLEASE NOTE:
-Put your private key and other details in .env file
-
 ## License :
 [LICENSE](./LICENSE)
+
+## PLEASE NOTE:
+Put your private key and other details in .env file
 
 For the frontend demo:
 Apart from app.py (containing the backend) and the static folder (containing the frontend html files), all other files are not required explicitly
