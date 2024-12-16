@@ -21,8 +21,8 @@ https://drive.google.com/file/d/1OsbvGGaZNWxNZgkttvCuil0_uUNMJ6mP/view?usp=shari
 ## License :
 [LICENSE](./LICENSE)
 
-<iframe width="640" height="360" src="https://youtu.be/wzr7Rxd0yG0" frameborder="10" allowfullscreen></iframe>
-
+## Video Demo :
+https://youtu.be/wzr7Rxd0yG0?si=WTLr5Pz27GiMaEFZ
 
 ## PLEASE NOTE:
 Put your private key and other details in .env file
