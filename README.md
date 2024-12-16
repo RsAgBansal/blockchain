@@ -16,6 +16,9 @@ This is an open source module which allows for polling using surveys using Algor
 ## To install the dependencies,
 => pip install -r requirements.txt
 
+## To Know More About the Project
+https://drive.google.com/file/d/1OsbvGGaZNWxNZgkttvCuil0_uUNMJ6mP/view?usp=sharing
+
 ## License :
 [LICENSE](./LICENSE)
 
