@@ -2,7 +2,7 @@
 
 ## Introduction
 This is an open source module which allows for polling using surveys deployed on Algorand Chain.
-<img src="https://github.com/user-attachments/assets/6173708e-750f-47ff-94d9-15c0000130d3" alt="image" width="500"/>
+<img src="https://github.com/user-attachments/assets/6173708e-750f-47ff-94d9-15c0000130d3" alt="image" width="300"/>
 
 
 ## Functionalities
