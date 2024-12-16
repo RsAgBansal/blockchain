@@ -3,7 +3,6 @@
 ## Introduction
 This is an open source module which allows for polling using surveys using Algorand
 <img src="https://github.com/user-attachments/assets/6173708e-750f-47ff-94d9-15c0000130d3" alt="image" width="300"/>
-<iframe src="https://drive.google.com/file/d/1R5qm7IAGFLN2XvRJ7B4lWPtgUU1A6Ccf/view?usp=sharing" width="640" height="360" allow="autoplay"></iframe>
 
 ## Functionalities
 * Survey Creation
@@ -21,6 +20,9 @@ https://drive.google.com/file/d/1OsbvGGaZNWxNZgkttvCuil0_uUNMJ6mP/view?usp=shari
 
 ## License :
 [LICENSE](./LICENSE)
+
+<iframe width="640" height="360" src="https://youtu.be/wzr7Rxd0yG0" frameborder="0" allowfullscreen></iframe>
+
 
 ## PLEASE NOTE:
 Put your private key and other details in .env file
