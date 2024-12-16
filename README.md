@@ -29,3 +29,5 @@ For the frontend demo:
 Apart from app.py (containing the backend) and the static folder (containing the frontend html files), all other files are not required explicitly
 
 Apart from the survey creation, deployement and interaction files, there are several files which were developed in the initial stages of development and are partly based on web2. They are completely nonfunctional, and just have been kept to know the development history.
+
+<iframe src="https://drive.google.com/file/d/1R5qm7IAGFLN2XvRJ7B4lWPtgUU1A6Ccf/view?usp=sharing" width="640" height="360" allow="autoplay"></iframe>
