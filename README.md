@@ -1,4 +1,4 @@
-# Blockchain Elections
+# # Blockchain Elections
 
 # Introduction
 This is an open source module which allows for polling using surveys deployed on Algorand Chain.
