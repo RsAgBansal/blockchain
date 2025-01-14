@@ -15,8 +15,33 @@ This is an open source module which allows for polling using surveys using Algor
 ## To install the dependencies,
 => pip install -r requirements.txt
 
-## To Know More About the Project
-https://drive.google.com/file/d/1OsbvGGaZNWxNZgkttvCuil0_uUNMJ6mP/view?usp=sharing
+## Objective
+Create an Open Source module to help developers in integrating Pollings and Surveys (based on blockchain, Algorand in our case) on their projects
+
+## Main Functions
+
+/ CREATE SURVEY : Allows creation of surveys with
+the desired questions and options
+/ RESPONSE SUBMISSION : Allows submission of
+responses, internally using Private Key (to
+maintain uniqueness) and App ID
+/ SURVEY RESULTS: Displays the current status of
+the polling (may or may not be made visible to
+all)
+
+## Key Features
+
+/ Trustable Pollings:
+This can be integrated to individual projects and
+allows for easy creation of polls. These polls
+would carry a lot of trust factor, through the
+private address.
+/Why this?
+Removes the need to create surveys from
+scratch for your applications
+/ Empowering Opinions:
+With this we aim to revolutionalize the way pollings
+are done, now it’s with full privacy and authenticity
 
 ## License :
 [LICENSE](./LICENSE)
